@@ -1,4 +1,4 @@
-### Olá, me chamo Eduardo 👋
+<h2>### Olá, me chamo Eduardo 👋</h2>
 <hr>
 
 <div>
