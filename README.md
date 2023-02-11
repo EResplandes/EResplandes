@@ -1,5 +1,5 @@
 ### Olá, me chamo Eduardo 👋
-
+<hr>
 
 <div>
   <a href="https://github.com/EResplandes">
@@ -7,6 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EResplandes&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
   
+<hr>
+  <h2>Conhecimentos</h2>
 <div>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
@@ -17,7 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 </div><br>
-  
+<hr>
+  <h2>Contatos</h2>
 <div>
   <a href="https://www.instagram.com/dudu_resplandes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
