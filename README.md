@@ -1,7 +1,5 @@
 <h2>### Olá, me chamo Eduardo 👋</h2>
-<hr>
 
-## Skill
 ```php
 <?php
 import Developer from "Eduardo-Resplandes";
