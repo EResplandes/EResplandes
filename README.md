@@ -8,7 +8,7 @@ class Skills extends Developer {
 
 languages = ["Php", "Javascript", "Python", "C++"];
 databases = ["Mysql", "Mariadb", "SQL Server"];
-frameworks = ["Bootstrap", "Vue.js", "React Native", "Laravel"];
+frameworks = ["Bootstrap", "Vue.js", "React Native", "Laravel", "Express.Js"];
 
 }
 ```
